@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Nasr</h1>
 <h3 align="center">A Junior Mobile Developer With Flutter</h3>
 
-- 🔭 I’m currently working on [Wikala](https://github.com/J3Unknown/wakala)  
-- 🌱 I’m currently learning **Flutter, Dart, PHP, Back-End, Java**  
+- 🔭 I’m currently working on [Expense-Tracker](https://github.com/J3Unknown/Expense-Tracker)  
+- 🌱 I’m currently learning **Flutter, Dart, SQL, Java**  
 - 👨‍💻 All of my projects are available at [linktr.ee/J3_Unknown](https://linktr.ee/J3_Unknown)  
 - 💬 Ask me about **Dart, Flutter**  
 - 📫 How to reach me: **taemaomar65@gmail.com**  
