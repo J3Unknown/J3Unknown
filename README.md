@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Nasr</h1>
 <h3 align="center">A Junior Mobile Developer With Flutter</h3>
 
-- 🔭 I’m currently working on [Grapher](https://github.com/J3Unknown/Graph-Editor)  
+- 🔭 I’m currently working on [Grapher](git@github.com:J3Unknown/graphs_editor.git)  
 - 🌱 I’m currently learning **Flutter, Dart, SQL, Java**  
 - 👨‍💻 All of my projects are available at [linktr.ee/J3_Unknown](https://linktr.ee/J3_Unknown)  
 - 💬 Ask me about **Dart, Flutter**  
