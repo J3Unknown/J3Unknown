@@ -52,9 +52,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j3unknown&radius=16&theme=react&area=true&hide_border=false" width="100%" />
+  <img src="https://raw.githubusercontent.com/j3unknown/j3unknown/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
