@@ -52,7 +52,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/j3unknown/j3unknown/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/409ba5/j3unknown" alt="j3unknown's Github Chart" width="100%" />
 </p>
 ---
 
