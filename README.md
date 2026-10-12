@@ -66,7 +66,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3unknown&theme=dark" alt="j3unknown streak" />
