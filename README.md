@@ -69,5 +69,5 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=j3unknown&theme=darkhub" alt="j3unknown trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3unknown&theme=dark" alt="j3unknown streak" />
 </p>
