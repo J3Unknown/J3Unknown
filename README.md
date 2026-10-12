@@ -1,35 +1,51 @@
 <h1 align="center">Hi 👋, I'm Omar Nasr</h1>
-<h3 align="center">A Junior Mobile Developer With Flutter</h3>
+<h3 align="center">Software Engineer | Flutter & Spring Boot Developer</h3>
 
-- 🔭 I’m currently working on [Grapher](https://github.com/J3Unknown/graphs_editor.git)  
-- 🌱 I’m currently learning **Flutter, Dart, SQL, Java**  
-- 👨‍💻 All of my projects are available at [linktr.ee/J3_Unknown](https://linktr.ee/J3_Unknown)  
-- 💬 Ask me about **Dart, Flutter**  
-- 📫 How to reach me: **taemaomar65@gmail.com**  
-- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1LAop_aW5svJCPFPgUhafh3iy3o0pTuJL?usp=sharing)  
-- ⚡ Fun fact: **I think I became more patient than before, after digging into this field XD**
+<p align="center">
+  <em>Building performant mobile applications and robust backend microservices.</em>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+### 🚀 About Me
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- 🔭 **Currently working on:** [Grapher](https://github.com/J3Unknown/graphs_editor.git)  
+- 🌱 **Expanding my expertise in:** Spring Boot, Microservices Architecture, Clean Architecture, and Advanced Systems  
+- 💼 **Explore my portfolio & projects:** [linktr.ee/J3_Unknown](https://linktr.ee/J3_Unknown)  
+- 💬 **Ask me about:** Flutter/Dart, Clean Architecture, BLoC/Cubit, REST APIs, and Java/Spring Boot  
+- 📫 **How to reach me:** [taemaomar65@gmail.com](mailto:taemaomar65@gmail.com)  
+- 📄 **Resume & Credentials:** [View Folder](https://drive.google.com/drive/folders/1LAop_aW5svJCPFPgUhafh3iy3o0pTuJL?usp=sharing)  
+- ⚡ **Fun fact:** I think I became much more patient after digging into this field XD  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Mobile & Frontend**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+### **Backend & Databases**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+### **Tools & Infrastructure**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/omar-nasr-teaima-06a666205) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/u/j3_unknown/)  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/j3_unknown)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/omar-nasr-teaima-06a666205) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/u/j3_unknown/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/j3_unknown)
 
 ---
 
