@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** [Grapher](https://github.com/J3Unknown/azan.git)  
+- 🔭 **Currently working on:** [Azan](https://github.com/J3Unknown/azan.git)  
 - 🌱 **Expanding my expertise in:** Spring Boot (Spring Security & JWT, JPA/Hibernate, transactions, caching), production-ready backends (observability, configuration, cloud deployment), Microservices, Clean Architecture, and System Design  
 - 🧠 **Systems background:** Co-built core components of a teaching operating system in C (fault handler, CPU scheduler, shared memory, kernel protection, user & kernel heaps)  
 - 📱 **Production experience:** 2 years of Flutter development, including co-leading the official Cairo International Book Fair app used by hundreds of thousands of visitors  
