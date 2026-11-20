@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Omar Nasr</h1>
-<h3 align="center">Software Engineer | Flutter & Spring Boot Developer</h3>
+<h3 align="center">Software Engineer | Flutter & Java Spring Boot Developer</h3>
 
 <p align="center">
-  <em>Building performant mobile applications and robust backend microservices.</em>
+  <em>Building performant mobile applications and robust, secure backend services.</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** [Grapher](https://github.com/J3Unknown/graphs_editor.git)  
-- 🌱 **Expanding my expertise in:** Spring Boot, Microservices Architecture, Clean Architecture, and Advanced Systems  
+- 🔭 **Currently working on:** [Grapher](https://github.com/J3Unknown/azan.git)  
+- 🌱 **Expanding my expertise in:** Spring Boot (Spring Security & JWT, JPA/Hibernate, transactions, caching), production-ready backends (observability, configuration, cloud deployment), Microservices, Clean Architecture, and System Design  
+- 🧠 **Systems background:** Co-built core components of a teaching operating system in C (fault handler, CPU scheduler, shared memory, kernel protection, user & kernel heaps)  
+- 📱 **Production experience:** 2 years of Flutter development, including co-leading the official Cairo International Book Fair app used by hundreds of thousands of visitors  
 - 💼 **Explore my portfolio & projects:** [linktr.ee/J3_Unknown](https://linktr.ee/J3_Unknown)  
 - 💬 **Ask me about:** Flutter/Dart, Clean Architecture, BLoC/Cubit, REST APIs, and Java/Spring Boot  
 - 📫 **How to reach me:** [taemaomar65@gmail.com](mailto:taemaomar65@gmail.com)  
@@ -21,22 +23,29 @@
 
 ## 🛠️ Tech Stack & Tools
 
+### **Backend & Databases**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
 ### **Mobile & Frontend**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Backend & Databases**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
 ### **Tools & Infrastructure**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
@@ -54,6 +63,7 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/j3unknown" alt="j3unknown's Github Chart" width="100%" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
